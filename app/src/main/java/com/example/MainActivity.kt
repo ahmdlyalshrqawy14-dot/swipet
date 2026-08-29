@@ -1,7 +1,7 @@
 package com.example
 
 import android.content.Context
-import androidx.lifecycle.compose.LocalLifecycleOwner
+import androidx.compose.ui.platform.LocalLifecycleOwner
 import android.content.Intent
 import android.content.pm.PackageManager
 import android.net.Uri
