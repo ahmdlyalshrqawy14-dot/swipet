@@ -1,0 +1,6 @@
+{
+  "name": "Swipe",
+  "description": "تطبيق نقل الملفات محلياً بسرعة فائقة بين أجهزة الأندرويد دون الحاجة لاتصال بالإنترنت.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Flame / Jet Trail at the bottom -->
+    <path
+        android:pathData="M54,72 L44,84 L54,98 L64,84 Z"
+        android:fillColor="#FF4D5E" />
+    <path
+        android:pathData="M54,72 L48,80 L54,90 L60,80 Z"
+        android:fillColor="#FFB020" />
+
+    <!-- Left Wing/Fin of the rocket -->
+    <path
+        android:pathData="M44,58 L28,74 L44,70 Z"
+        android:fillColor="#3D8BFF" />
+
+    <!-- Right Wing/Fin of the rocket -->
+    <path
+        android:pathData="M64,58 L80,74 L64,70 Z"
+        android:fillColor="#3D8BFF" />
+
+    <!-- Rocket body: sleek clenched fist pointing up -->
+    <path
+        android:pathData="M44,38 C44,26 54,16 54,16 C54,16 64,26 64,38 L62,68 C62,71 59,73 54,73 C49,73 46,71 46,68 Z"
+        android:fillColor="#E2E2E6" />
+
+    <!-- Knuckle detail line -->
+    <path
+        android:pathData="M48,32 Q54,28 60,32"
+        android:strokeWidth="2"
+        android:strokeColor="#1A1035"
+        android:strokeLineCap="round" />
+
+    <!-- Fist Knuckles and folded fingers -->
+    <path
+        android:pathData="M47,36 C47,36 50,33 54,36 L54,48"
+        android:strokeWidth="1.5"
+        android:strokeColor="#1A1035"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M54,36 C54,36 57,33 61,36 L61,48"
+        android:strokeWidth="1.5"
+        android:strokeColor="#1A1035"
+        android:strokeLineCap="round" />
+    
+    <!-- Thumb crossed across in bright emerald green -->
+    <path
+        android:pathData="M45,45 Q54,48 59,43"
+        android:strokeWidth="2.5"
+        android:strokeColor="#2ECC91"
+        android:strokeLineCap="round" />
+
+    <!-- Speed/Glow lines on sides -->
+    <path
+        android:pathData="M18,36 L24,38"
+        android:strokeWidth="2"
+        android:strokeColor="#3D8BFF"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M90,36 L84,38"
+        android:strokeWidth="2"
+        android:strokeColor="#3D8BFF"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M22,48 L28,49"
+        android:strokeWidth="2"
+        android:strokeColor="#2ECC91"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M86,48 L80,49"
+        android:strokeWidth="2"
+        android:strokeColor="#2ECC91"
+        android:strokeLineCap="round" />
+</vector>
